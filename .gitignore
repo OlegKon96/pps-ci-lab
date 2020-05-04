@@ -2,5 +2,5 @@
 /build/
 .idea/
 *.bin
-*.class
+*.java
 .DS_Store
