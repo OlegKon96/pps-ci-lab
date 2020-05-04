@@ -1,3 +1,4 @@
 lenguage: java
+install: true
 script:
   - 'gradlew clean build'
